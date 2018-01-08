@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PicGallery</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="searchTitle">Search</string>
+    <string name="cleartitle">Clear</string>
+    <string name="polling">Polling</string>
+    <string name="new_items_title">You have new Results</string>
+    <string name="new_item_text">You have new search Results for you last search in PicGallery</string>
+</resources>
